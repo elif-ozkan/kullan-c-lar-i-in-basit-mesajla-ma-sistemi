@@ -1,0 +1,24 @@
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\bin\Debug\Kullanıcılar İçin mesajlaşma sistemi.exe.config
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\bin\Debug\Kullanıcılar İçin mesajlaşma sistemi.exe
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\bin\Debug\Kullanıcılar İçin mesajlaşma sistemi.pdb
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar_İçin_mesajlaşma_sistemi.Form1.resources
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar_İçin_mesajlaşma_sistemi.Form2.resources
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar_İçin_mesajlaşma_sistemi.Properties.Resources.resources
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.exe
+C:\Users\elifo\Desktop\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\bin\Debug\Kullanıcılar İçin mesajlaşma sistemi.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\bin\Debug\Kullanıcılar İçin mesajlaşma sistemi.exe
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\bin\Debug\Kullanıcılar İçin mesajlaşma sistemi.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar_İçin_mesajlaşma_sistemi.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar_İçin_mesajlaşma_sistemi.Form2.resources
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar_İçin_mesajlaşma_sistemi.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.exe
+C:\Users\elifo\Desktop\PROJELERİM\Kullanıcılar İçin mesajlaşma sistemi\Kullanıcılar İçin mesajlaşma sistemi\obj\Debug\Kullanıcılar İçin mesajlaşma sistemi.pdb
